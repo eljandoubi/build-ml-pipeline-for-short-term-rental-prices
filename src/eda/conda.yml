@@ -3,6 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.8.5
+  - protobuf=3.13.0
   - jupyterlab=3.0.12
   - seaborn=0.11.1
   - pandas=1.2.3
